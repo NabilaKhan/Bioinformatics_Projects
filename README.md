@@ -1,6 +1,6 @@
 # CAP5510_Introduction_to_Bioinformatics
 
-# Course Objective:<br/>
+**Course Objective:**
 
 Understanding fundamental concepts in bioinformatics and knowing the different subareas; and understanding classical and current computational methods in bioinformatics.
 
