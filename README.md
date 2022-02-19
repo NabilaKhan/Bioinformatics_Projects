@@ -9,19 +9,20 @@ Being able to review and criticize current computational methods for large scale
 **Course Contents:**
 
 Homework1 Tasks:
-Computing the optimal global alignments of DNA two sequences
-Using BLAST algorithm and interpreting results
+1. Computing the optimal global alignments of DNA two sequences
+2. Using BLAST algorithm and interpreting results
 
-Homework2
-Differential genes evaluation
-profile representation and consensus representation of motifs
-Finding motif using MEME suite tool
+Homework2 Tasks:
+1. Differential genes evaluation
+2. Generating profile representation and consensus representation of motifs
+3. Finding motif using MEME suite tool
 
-Homework3
-Computing Correlation MAtrix,  Cluster genes using hierarchical clustering and k-means clustering
-Discussing ALDC (automatical local density clustering) algorithm 
+Homework3 Tasks:
+1. Computing correlation Matrix, clustering genes using Hierarchical clustering and K-means clustering
+2. Discussing ALDC (automatical local density clustering) algorithm 
 
 Paper Presentation:
+Presenting the published paper "LinearFold: a linear-time algorithm for approximate RNA folding"
 
 Final Project:
 
