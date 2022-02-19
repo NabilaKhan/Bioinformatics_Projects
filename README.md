@@ -25,11 +25,8 @@ Paper Presentation:
 Presenting the published paper "LinearFold: a linear-time algorithm for approximate RNA folding"
 
 Final Project:
-
 Title: Analyzing the reason behind similar behavioral traits ofdomestic animals and human with William Syndrome
-
 Abstract: 
-
 Williams   syndrome   occurs   when   people   are   missing   achunk   of   DNA   on   chromosome   7.   It   results   in   certaintypes  of  physical  traits  such  as  hypersocial  personalities,heart  defects,  intellectual  disability,  and  more.  Among  thegenes  often  deleted  in  Williams  Syndrome  are  WBSCR17,GTF2I,  and  GTF2IRD1.  In  a  study  it  was  seen  that  thesesame  genes  were  important  in  dog  evolution.  This  hintstowards  the  possibility  that  this  region  of  genome  mightbe responsible for the highly friendly behavior of both dogsand  also  people  with  William  Syndrome.  In  this  project,we  tried  to  determine  if  there’s  any  evidence  supportingthis  claim.  To  do  so,  we  test  for  any  similarity  betweenthe  sequence  structure  of  the  affected  genes  listed  above,comparing  humans  to  wolves  and  dogs,  using  well-knowncomparison  methods  like  Longest  Common  Subsequence(LCS)  and  Sequence  Alignment.  We  also  converted  thegenes  to  mRNAs,  predicted  their  secondary  structures  andcompared  the  structures  to  see  if  there  is  similarity  in  themRNA folding of these genes. Later, based on the data, wedetermined  that  there  is  at  least  marginal  evidence  for  arelationship  between  human  Williams  Syndrome  and  dogs’behavioral evolution from wolves.
 
 
