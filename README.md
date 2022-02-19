@@ -1,4 +1,4 @@
-# CAP5510_Introduction_to_Bioinformatics
+# Introduction_to_Bioinformatics
 
 **Course Objective:**
 
